@@ -18,6 +18,10 @@
 
 <p align="justify">Ao observar os gráficos gerados, a eficácia do método torna-se evidente:</p>
 
+<p align="center">
+  <img src="https://github.com/rodfloripa/Projeto37/blob/main/fig1.png">
+</p>
+
 <p align="justify">
 <ul>
 <li><b>Figura Superior (Sinal de Aceleração):</b> Mostra que o sinal de vibração é altamente ruidoso, dificultando a detecção visual imediata. No entanto, as áreas destacadas mostram onde o comportamento transiente rompe a ciclicidade.</li>
