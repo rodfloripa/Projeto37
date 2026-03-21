@@ -1,4 +1,4 @@
-<p align="justify"><h1><a href="https://arxiv.org/abs/2501.11730">Artigo: Detecção de Anomalias em Vibrações Ferroviárias com Transformers</a></h1></p>
+<p align="justify"><h1>Artigo:<a href="https://arxiv.org/abs/2501.11730">Previsão de vibração de transformadores para o avanço da segurança ferroviária e da manutenção 4.0</a></h1></p>
 
 <p align="justify">A implementação de um sistema de monitoramento para a <b>Manutenção 4.0</b> utiliza o poder dos Transformers para aprender o comportamento dinâmico "saudável" de uma infraestrutura. Ao contrário de métodos estatísticos simples, o modelo de Deep Learning consegue capturar dependências temporais complexas, permitindo distinguir entre o ruído operacional comum e falhas estruturais críticas. Abaixo, detalhamos os blocos fundamentais do código e a interpretação dos resultados.</p>
 
