@@ -55,7 +55,7 @@ threshold_dinamico = erro.rolling(window=window).mean() + 4 * erro.rolling(windo
 
 <p align="justify">Essa técnica de <b>Estatística Adaptativa</b> permite que o Transformer ignore mudanças graduais no ambiente e foque apenas em picos de energia que fogem do padrão estatístico imediato da via. No nosso código simplificado, o valor de 300 serviu como o período de calibração inicial, mas em produção, a janela móvel é o que garante a robustez do sistema.</p>
 
-<p align="justify"><h3>4. Conclusão e Análise das Figuras</h3></p>
+<p align="justify"><h3>5. Conclusão e Análise das Figuras</h3></p>
 
 <p align="justify">Ao observar os gráficos gerados, a eficácia do método torna-se evidente:</p>
 
